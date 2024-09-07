@@ -1,0 +1,167 @@
+.headingdiv{
+    width: 46%
+}
+
+.restaurant1, .express2, .village3{
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imageone, .imagetwo, .imagethree{
+    width: 220px;
+}
+
+.divbutton{
+    display: flex;
+    justify-content: center;
+    column-gap: 120px;
+}
+
+.buttonone, .buttontwo, .buttonthree{
+    width: 155px;
+}
+
+.sectionfour{
+    background-color: rgb(15, 15, 15);
+    background-image: url(./Images/background\ image.webp);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.addresstext{
+    color: lightgrey;
+}
+
+.buttondiv{
+    height: 45px;
+    background-color: rgb(15, 15, 15);
+    width: 170px;
+}
+
+.divwidth{
+    width: 550px;
+}
+
+.cardbuttons{
+    height: 45px;
+    width: 170px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cardmaindiv{
+    width: 90%;
+    column-gap: 30px;
+    row-gap: 25px;
+}
+
+.carddivs{
+    border-radius: 5px;
+}
+
+.sectionsix{
+    background-color: rgb(15, 15, 15);
+}
+
+.sec6divs{
+    width: 49%;
+}
+
+.greenbutton{
+    background-color: #28A745;
+    border: 1px solid #28A745;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.comingsoondivs{
+    width: 23rem; 
+    height: 14rem;  
+    border-radius: 5px;
+}
+
+.divsection00{
+    width: 90%;
+}
+
+.locationimage{
+    width: 15%;
+}
+
+.divtexts, .divtext{
+    line-height: 12px;
+}
+
+.divtext{
+    font-size: 11px;
+}
+
+.footersection{
+    background-color: rgb(15, 15, 15);
+    background-image: url(./Images/background\ image.webp);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.difFont0{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.difFont1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.difFont2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+.SecondScroll{
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.images01{
+    width: 20%;
+}
+
+.footerdiv1{
+    width: 370px;   
+}
+
+.fontchange{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.footerdiv2{
+    width: 170px;
+}
+
+.footerdiv3{
+    width: 250px;
+}
+
+.footerdiv4{
+    width: 160px;
+}
+
+.LineHeightChange{
+    line-height: 35px;
+}
+
+.marginchange{
+    margin-top: 70px;
+}
+
+.logoimages{
+    width: 40px;
+}
+
+.appstorepng{
+    width: 145px;
+}
